@@ -54,19 +54,18 @@ The purpose of this analysis is to develop a tool to help the nonprofit foundati
 - **Achieved Performance:**
   - The model was able to achieve an accuracy of 75%.
   - The model's loss function minimized to 0.5114.
-
-  - ![Model Performance Screenshot](path/to/screenshot.png)
     
 ### Steps to Improve Model Performance
 
 - **Increase Neurons:**
   - Enhanced the model by adding more neurons to the second layer.
-![Model Accuracy Plot](path/to/accuracy_plot.png)
+![Optimization Model 1](/Optimization_1.png)
 - **Add Layers:**
   - Improved the model architecture by introducing an additional layer.
-![Model Accuracy Plot](path/to/accuracy_plot.png)
+![Optimization Model 2](/Optimization_2.png)
 - **Feature Engineering:**
   - Reintroduced `NAME` as a feature to capture any potential hidden patterns.
+![Optimization Model Final](/Optimization_final.png)
 
 ### Summary
 
@@ -84,12 +83,5 @@ The purpose of this analysis is to develop a tool to help the nonprofit foundati
 
 By considering these alternative models, we might achieve better accuracy and more insights into the key factors driving the success of funding applications.
 
----
-
-### Visual Representations
-
-
-*Figure 1: Model Accuracy over Epochs*
-
-![Model Loss Plot](path/to/loss_plot.png)
-*Figure 2: Model Loss over Epochs*
+## Acknowledgements
+A tutor assisted with optimizing the model.
