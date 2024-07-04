@@ -51,7 +51,6 @@ The purpose of this analysis is to develop a tool to help the nonprofit foundati
 
 ### Model Performance
 
-
 - **Achieved Performance:**
   - The model was able to achieve an accuracy of 75%.
   - The model's loss function minimized to 0.5114.
@@ -62,10 +61,10 @@ The purpose of this analysis is to develop a tool to help the nonprofit foundati
 
 - **Increase Neurons:**
   - Enhanced the model by adding more neurons to the second layer.
-
+![Model Accuracy Plot](path/to/accuracy_plot.png)
 - **Add Layers:**
   - Improved the model architecture by introducing an additional layer.
-
+![Model Accuracy Plot](path/to/accuracy_plot.png)
 - **Feature Engineering:**
   - Reintroduced `NAME` as a feature to capture any potential hidden patterns.
 
@@ -89,7 +88,7 @@ By considering these alternative models, we might achieve better accuracy and mo
 
 ### Visual Representations
 
-![Model Accuracy Plot](path/to/accuracy_plot.png)
+
 *Figure 1: Model Accuracy over Epochs*
 
 ![Model Loss Plot](path/to/loss_plot.png)
